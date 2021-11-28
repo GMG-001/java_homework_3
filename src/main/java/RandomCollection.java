@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class RandomCollection {
-    public static void RandomNum(){
+    public static void randomCollection(){
 //        რანდომ კლასის ინიცირება
         Random random = new Random();
 

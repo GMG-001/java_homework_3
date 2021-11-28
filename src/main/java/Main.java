@@ -4,6 +4,6 @@ public class Main {
         CollectionNames.example1();
 
 //        RandomCollection კლასის მეთოდის გამოძახება
-        RandomCollection.RandomNum();
+        RandomCollection.randomCollection();
     }
 }
